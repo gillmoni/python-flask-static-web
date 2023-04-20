@@ -1,5 +1,5 @@
-# jovian-flask-series
-Just sameple flask series
+# flask-series
+Just sameple flask series, making a static website
 Making a static page with Flask HTML and CSS, thing.
 In v2 of this project adding more forms and databases.
 https://github.com/gillmoni/jovian-careers-website-v2
